@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8733/Design_Time_Addresses/WcfStudentService/StudentService/?wsdl" uri="src/conf/xml-resources/web-service-references/WsClient/wsdl/localhost_8733/Design_Time_Addresses/WcfStudentService/StudentService/.wsdl"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/WcfStudentService/StudentService/?xsd=xsd0" uri="src/conf/xml-resources/web-service-references/WsClient/wsdl/localhost_8733/Design_Time_Addresses/WcfStudentService/StudentService/.xsd_xsd0.xsd"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/WcfStudentService/StudentService/?xsd=xsd1" uri="src/conf/xml-resources/web-service-references/WsClient/wsdl/localhost_8733/Design_Time_Addresses/WcfStudentService/StudentService/.xsd_xsd1.xsd"/>
+    <system systemId="http://localhost:8733/Design_Time_Addresses/WcfStudentService/StudentService/?xsd=xsd2" uri="src/conf/xml-resources/web-service-references/WsClient/wsdl/localhost_8733/Design_Time_Addresses/WcfStudentService/StudentService/.xsd_xsd2.xsd"/>
+</catalog>
